@@ -1,6 +1,6 @@
 # 📄 EDA Framework Documentation
 
-This repository contains a PDF document that summarizes an effective framework for performing **Exploratory Data Analysis (EDA)**. The guide is compiled and structured using insights from various expert sources.
+This repository contains a PDF document that summarizes an effective framework for performing **Exploratory Data Analysis (EDA)**. The guide is compiled and structured using insights from various expert sources I followed.
 
 The PDF includes:
 - A practical EDA workflow
