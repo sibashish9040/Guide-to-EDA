@@ -11,8 +11,9 @@ The PDF includes:
 
 ---
 
-📎 **[Click here to view the PDF](./EDA_Framework_Documentation.pdf)** 
+📎 **[Click here to view the PDF](https://github.com/sibashish9040/Guide-to-EDA/blob/main/Guide%20to%20Exploratory%20Data%20Analysis.pdf)** 
 
 Feel free to explore, share, or use the framework for your own data projects!
+Thank you!
 
 ---
